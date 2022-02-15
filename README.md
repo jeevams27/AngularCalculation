@@ -34,7 +34,7 @@ Publish the website in the given URL.
 ## PROGRAM :
 ```
 
-## Cylinder.component.html:
+Cylinder.component.html:
 <div>
     <h2>Volume of Cylinder :</h2>
     Height=<input type="text"[(ngModel)]="height">Meters<br/>    
@@ -44,7 +44,7 @@ Publish the website in the given URL.
     
 </div>
 
-## Cylinder.component.ts:
+ Cylinder.component.ts:
 
 import { Component } from "@angular/core";
 
@@ -68,7 +68,7 @@ export class CylinderComponent{
     }
 }
 
-## app.component.html:
+app.component.html:
 
 <body>
     <div class="container">
@@ -88,7 +88,7 @@ export class CylinderComponent{
   
   </body>
 
-  ## Style.css:
+  Style.css:
 
   *{
     box-sizing: border-box;
@@ -185,7 +185,7 @@ export class CylinderComponent{
     }
     
 
-## triangle.component.html:
+Triangle.component.html:
 <div>
     <h2>Area of Triangle:</h2>
     Height=<input type="text"[(ngModel)]="height">Meters<br/>    
@@ -195,7 +195,7 @@ export class CylinderComponent{
     
 </div>
 
-## triangle.component.ts:
+Triangle.component.ts:
 
 import { Component } from "@angular/core";
 
