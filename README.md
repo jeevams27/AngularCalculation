@@ -228,7 +228,6 @@ export class TriangleComponent{
 ![](./output1.png)
 
 
-### Home Page:
-
 
 ## Result:
+A dynamic website to perform mathematical calculations is designed using Angular Framwork.
